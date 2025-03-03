@@ -15,10 +15,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Removed
 
-## [0.1.0] - 2024-02-06
+## [0.0.1] - 2025-03-03
 
 ### Added
 
-- Initial commit
+- Tests data `tests/data/con2_contratos.csv` y  `tests/data/eje.csv`
+- Add first version of `src/tablanueva.R`
 
-[0.1.1]: https://github.com/CoordEjecu/plantilla_r/compare/v0.1.0...v0.1.1
+[0.0.1]: https://github.com/CoordEjecu/analitico_partida/compare/v0.1.0...v0.1.1
